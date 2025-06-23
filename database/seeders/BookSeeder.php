@@ -52,4 +52,5 @@ class BookSeeder extends Seeder
             Book::create($book);
         }
     }
+    
 }
